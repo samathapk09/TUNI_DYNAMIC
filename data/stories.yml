@@ -1,0 +1,48 @@
+version: "3.1"
+
+stories:
+  - story: Greet and request product info
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: request_product_info
+      - action: action_fetch_product_info
+
+  - story: Provide product information
+    steps:
+      - intent: provide_product_info
+      - action: utter_custom_tunii_links
+      - action: utter_product_links
+
+  - story: show_available_dress
+    steps:
+      - intent: show_available_dress
+      - action: utter_show_available_dress
+
+  - story: Show Men Dresses
+    steps:
+      - intent: show_men_dress
+      - action: utter_show_men_dress
+
+  - story: pant
+    steps:
+      - intent: show_pant
+      - action: utter_show_pant
+
+  - story: jogger
+    steps:
+      - intent: jogger_pant
+      - action: utter_jogger_pant
+
+  - story: Farewell
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - story: Request product image
+    steps:
+      - intent: request_product_image
+      - action: utter_product_type
+      - intent: request_product_type
+      - action: action_fetch_product_image
+      

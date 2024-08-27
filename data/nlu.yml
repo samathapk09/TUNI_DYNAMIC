@@ -1,0 +1,98 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - hey
+      - hello
+      - hi
+      - hello there
+      - good morning
+
+  - intent: goodbye
+    examples: |
+      - bye
+      - goodbye
+      - see you later
+      - good night
+
+  - intent: request_product_info
+    examples: |
+      - I need product information
+      - Show me the product details
+      - Tell me about the product
+
+  - intent: provide_product_info
+    examples: |
+      - Here is the product information
+      - I have the product details
+      - This is the product info
+
+  - intent: show_available_dress
+    examples: |
+      - Show me the available dresses
+      - What dresses do you have?
+      - Display all the dresses
+
+  - intent: show_men_dress
+    examples: |
+      - Show me mens dresses
+      - What mens dresses are available?
+      - Display mens wear
+
+  - intent: show_pant
+    examples: |
+      - Show me pants
+      - What pants do you have?
+      - Display all pants
+
+  - intent: jogger_pant
+    examples: |
+      - Show me jogger pants
+      - What joggers are available?
+      - Display jogger pants
+
+  - intent: shirt
+    examples: |
+      - Show me shirts
+      - What shirts are available?
+      - Display all shirts
+
+  - intent: mood_great
+    examples: |
+      - I'm feeling great
+      - I'm doing fantastic
+      - Feeling awesome
+
+  - intent: mood_unhappy
+    examples: |
+      - I'm feeling down
+      - I'm not happy
+      - Feeling sad
+
+  - intent: bot_challenge
+    examples: |
+      - Are you a bot?
+      - Are you a human?
+      - Am I talking to a bot?
+
+  - intent: custom_tunii
+    examples: |
+      - Show tunii shirts
+      - Show tunii men wear
+      - Show half and T-shirt
+
+  - intent: request_product_image
+    examples: |
+      - Show me the product image
+      - I want to see the product image
+      - Display the product image
+      - Can you show me the image?
+
+  - intent: request_product_type
+    examples: |
+      - Printed
+      - Plain
+      - check
+      - combo
+      

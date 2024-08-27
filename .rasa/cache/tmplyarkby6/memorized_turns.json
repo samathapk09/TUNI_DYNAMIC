@@ -1,0 +1,22 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJydjlEKgCAQBa/iATqBV4lYxF4h1Grr2o949wT7D/p7A8Pw5tomU5PgJuc1RLamjkHsTljzwhGygrtbMqQ7gTuqNbsA2j4aRRVCQ/1X+HghuAqyUpK4Fq8UeIutLQ958VTI": "action_fetch_product_info",
+    "eJydjkEKgzAURK+SA/QEuYrIR+LYBuqP/ky6Cd69AbvpyuBuBt48ZqjHw9XN8JEpMCb1rp5BdFrh3a+8Yya0sSXDGhO1VXr3NIDHhaOQMDnRe4aLF4a9IFM2S3MJlKhL6lQuYHj9Dzv14xfEMXnf": "action_listen",
+    "eJwtisEJwCAMAFfJAJ3AVaQE0RQCbSIa/Yi7N9C+7g4urn3Aqo0mpmysEmB9gpIeCvDHzd1I/B2dmj8snhagNp1cCJ1lZEOWS/c+X7i6IdI=": "utter_custom_tunii_links",
+    "eJyNjEEKwCAMBL/iA/oCv1JKKJpCaI2iiRfx7w209/a0OzDMOubiRqnYYQ9Cmb0bzwHeE3r3wkVNkM3VhtUcYkPxrtTcKSLYRg0CxEeeH0kVwQpBm+QEokxkeT7b3/p2A+GwRr0=": "utter_product_links",
+    "eJytjEEKgDAMBL/SB/iCfkUklBohqGlpEy+lfzegnkXwtLswO2Prg2u54AEhCiX2rl0FOOzo3T02qoJsrFYsxhDbFO9ySQfNCJazRgHiJfUXpYpggahV0g6iTGR6Xuuf9ufxSTyde+pphg==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPT8/JakytbY2FgAh+hxX": "utter_goodbye",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPT8/JakytZaAKaUlJalF8TDFuE2JBQCMqTcN": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohKz89PbUoviAxr6S2NhYAluAd/g==": "utter_jogger_pant",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohKz89PbUoviAxr6SWgEmlJSVAlcga8JsWCwBNPTwC": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhOCO/PD6xLDEzJzEpJzU+pSi1uLi2NhYAtm8hrw==": "utter_show_available_dress",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhOCO/PD6xLDEzJzEpJzU+pSi1uLiWgJGlJSWpRfFYdRJpfiwAVXNHFQ==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhOCO/PL4gMa+ktjYWAFxvHUE=": "utter_show_pant",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhOCO/PL4gMa+kloA5pSUlqUXxCOX4TIoFAPDdOcs=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhOCO/PD43NS8+pSi1uLi2NhYA8/MfTg==": "utter_show_men_dress",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhOCO/PD43NS8+pSi1uLiWgGGlJSWpRfFoegiaGQsAkGE/8g==": "action_listen"
+  }
+}

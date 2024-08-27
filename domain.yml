@@ -1,0 +1,67 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - request_product_info
+  - provide_product_info
+  - show_available_dress
+  - show_men_dress
+  - show_pant
+  - jogger_pant
+  - shirt
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - custom_tunii
+  - product_type
+  - request_product_image 
+
+slots:
+  product_path:
+    type: text
+    influence_conversation: false
+    mappings:  # You need to specify this key
+      - type: from_text  # This is an example; adjust as needed
+  product_id:
+    type: text
+    influence_conversation: false
+    mappings:  # You need to specify this key
+      - type: from_text  # This is an example; adjust as needed
+
+      
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_product_info
+  - utter_custom_tunii_links
+  - utter_product_links
+  - utter_show_available_dress
+  - utter_show_men_dress
+  - utter_show_pant
+  - utter_jogger_pant
+  - utter_product_type
+  - action_fetch_product_info
+  - action_fetch_product_image
+
+responses:
+  utter_greet:
+    - text: "Hello! How can I help you today?"
+  utter_goodbye:
+    - text: "Goodbye! Have a nice day."
+  utter_product_info:
+    - text: "I can provide you with the product information. Please wait a moment."
+  utter_custom_tunii_links:
+    - text: "Here are the custom tunii links."
+  utter_product_links:
+    - text: "Here are the product links."
+  utter_show_available_dress:
+    - text: "Here are the available dresses."
+  utter_show_men_dress:
+    - text: "Here are the mens dresses."
+  utter_show_pant:
+    - text: "Here are the pants."
+  utter_jogger_pant:
+    - text: "Here are the jogger pants."
+  utter_product_type:
+    - text: "Sure, Do you want to see Plain or Printed or check or combo?"
